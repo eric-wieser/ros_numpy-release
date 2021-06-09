@@ -1,3 +1,26 @@
+## ros_numpy (noetic) - 0.0.5-2
+
+The packages in the `ros_numpy` repository were released into the `noetic` distro by running `/usr/bin/bloom-release ros_numpy --rosdistro noetic` on `Wed, 09 Jun 2021 10:05:27 -0000`
+
+The `ros_numpy` package was released.
+
+Version of package(s) in repository `ros_numpy`:
+
+- upstream repository: https://github.com/eric-wieser/ros_numpy.git
+- release repository: https://github.com/eric-wieser/ros_numpy-release.git
+- rosdistro version: `0.0.4-5`
+- old version: `0.0.5-1`
+- new version: `0.0.5-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ros_numpy (noetic) - 0.0.5-1
 
 The packages in the `ros_numpy` repository were released into the `noetic` distro by running `/usr/bin/bloom-release ros_numpy --rosdistro noetic` on `Wed, 09 Jun 2021 09:52:13 -0000`
